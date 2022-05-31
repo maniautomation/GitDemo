@@ -1,0 +1,7 @@
+13:35:15.855 [TestNG-tests-3] INFO  Academy.validateTitle -  Succesfully validated Text message
+13:35:17.658 [TestNG-tests-2] INFO  Academy.validateTitle - nonrestricted
+13:35:38.228 [TestNG-tests-2] INFO  Academy.validateTitle - restricted
+13:57:40.024 [TestNG-tests-3] INFO  Academy.validateTitle -  Driver is initiliazed
+13:58:06.742 [TestNG-tests-2] INFO  Academy.validateTitle - nonrestricted
+13:58:07.779 [TestNG-tests-3] INFO  Academy.validateTitle - Navigated to homepage
+13:58:08.659 [TestNG-tests-1] INFO  Academy.validateTitle - Navigation bar is displayed

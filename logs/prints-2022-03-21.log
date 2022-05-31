@@ -1,0 +1,7 @@
+00:21:26.969 [TestNG-tests-3] INFO  Academy.validateTitle -  Succesfully validated Text message
+00:21:44.621 [TestNG-tests-2] INFO  Academy.validateTitle - nonrestricted
+00:21:58.496 [TestNG-tests-1] INFO  Academy.validateTitle - Navigation bar is displayed
+22:47:20.510 [main] INFO  Academy.validateTitle - Navigation bar is displayed
+22:50:34.480 [main] INFO  Academy.validateTitle - Navigation bar is displayed
+22:59:22.610 [main] INFO  Academy.validateTitle - Navigation bar is displayed
+23:04:43.847 [main] INFO  Academy.validateTitle - nonrestricted

@@ -1,0 +1,7 @@
+22:16:22.190 [main] INFO  Academy.validateTitle - nonrestricted
+22:16:51.122 [main] INFO  Academy.validateTitle -  Driver is initiliazed
+22:17:10.068 [main] INFO  Academy.validateTitle - Navigated to homepage
+22:17:10.170 [main] INFO  Academy.validateTitle -  Succesfully validated Text message
+22:21:55.840 [TestNG-tests-3] INFO  Academy.validateTitle -  Driver is initiliazed
+22:22:18.883 [TestNG-tests-1] INFO  Academy.validateTitle - Navigation bar is displayed
+22:22:19.377 [TestNG-tests-3] INFO  Academy.validateTitle - Navigated to homepage

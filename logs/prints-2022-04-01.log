@@ -1,0 +1,6 @@
+23:35:22.272 [TestNG-tests-1] INFO  Academy.validateTitle - Navigated to homepage
+23:35:23.341 [TestNG-tests-1] INFO  Academy.validateTitle -  Succesfully validated Text message
+23:36:49.198 [TestNG-tests-3] INFO  Academy.validateTitle -  Driver is initiliazed
+23:37:12.076 [TestNG-tests-1] INFO  Academy.validateTitle - Navigation bar is displayed
+23:37:14.759 [TestNG-tests-3] INFO  Academy.validateTitle - Navigated to homepage
+23:37:15.925 [TestNG-tests-3] INFO  Academy.validateTitle -  Succesfully validated Text message
