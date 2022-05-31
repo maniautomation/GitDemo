@@ -59,6 +59,11 @@ public void basepagenavigation(String mail,String password,String text) throws I
 	fp.sendinstructions().click();
 	
 	 log.info(text);
+	 
+ System.out.println("welcome to github");
+	 
+ System.out.println("welcome to Hub");
+
 		 
 }
 	@DataProvider 
