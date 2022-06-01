@@ -1,11 +1,10 @@
 Alphabets
 a
-b 
+b
 c 
-d 
+d
 e
 f
 g
 h
-i
 
