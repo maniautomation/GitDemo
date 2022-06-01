@@ -33,6 +33,11 @@ public class validateTitle extends base {
        driver.get(prop.getProperty("url"));  
        
 		log.info("Navigated to homepage");
+		
+		System.out.println("valiadate title");
+		
+		System.out.println("valiadate title2");
+
 
 	} 
 	 
