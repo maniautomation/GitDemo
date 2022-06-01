@@ -27,6 +27,7 @@ public class Navigationpage extends base {
 		driver = initializeDriver(); 
 		
        driver.get(prop.getProperty("url"));   
+       System.out.println("navigation page");
 	}
 	
    @Test
